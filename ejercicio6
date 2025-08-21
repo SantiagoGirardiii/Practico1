@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<HTMl>
+    <head>
+        <title>Ejercicio6</title>
+    </head>
+    <body>
+        <h3>Lista de helados</h3>
+        <ol>
+            <li> Dulce de leche grido </li>
+            <li> Tramontana </li>
+            <li> Flan </li>
+        </ol>
+        <br>
+        <ul>
+            <li>ver series</li>
+            <li>ir al gim</li>
+            <li>Dormir</li>
+        </ul>
+        <br>
+
+        <ol>
+            <li>Plantas
+                <ol>
+                    <li>sansiveria</li>
+                    <li>anglonema</li>
+                </ol>
+            </li>       
+        </ol>
+    </body>
+</HTMl>
