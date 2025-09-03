@@ -4,7 +4,7 @@
         <title>ejercicio 10</title>
         <style>
             table,th,td,tr {
-                border: 1px  solid red;
+                border: 1px  solid rgb(255, 0, 0);
                 border-collapse: collapse;      
             }
         </style>
@@ -44,7 +44,7 @@
 
         <table>
             <tr>
-                fila 1
+                <td colspan="3">fila1</td>
             </tr>
             <tr>        
                 <th>celda 1 </th>
@@ -57,6 +57,25 @@
                 <th>celda 3</th>
             </tr>
         </table>
+
+        <br>
+        <br>
+
+
+        <table>
+            <tr>
+                <th rowspan="2" >celda1</th> 
+                <th rowspan="3">celda2</th>
+                <th>celda2</th>
+            </tr>
+            <tr>
+                <td>celda3</td>
+            </tr>
+            <tr>
+                <td>celda5</td>
+                <td>celda6</td>
+            </tr>
+        </table>    
 
 
     </body>
